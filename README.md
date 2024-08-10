@@ -27,7 +27,7 @@ pip install requests
 ## Utilisation
  1. Clonez ce dépôt :
  ```bash
- git clone https://github.com/s.worm/Discord-Islamophobe-Searcher.git
+ git clone https://github.com/swormm/Discord-Islamophobe-Searcher.git
  cd Discord-Islamophobe-Searcher
  ```
  2. Modifiez les fichier **DGI.p**y et **get-disc-server.py** pour inclure votre token Discord et modifié la liste des mots clés que vous souhaitez rechercher.
