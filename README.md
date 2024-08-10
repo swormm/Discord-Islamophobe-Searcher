@@ -21,8 +21,8 @@ pip install requests
 ```
 
 ## Configuration
- 1. Token Discord : Vous aurez besoin d'un token Discord valide pour que le script puisse accéder aux serveurs et lire les messages. Vous pouvez obtenir ce token en vous connectant à Discord et en inspectant les requêtes réseau dans votre navigateur, mais faites attention à la sécurité de votre token.
- 2. Mots Clés : Vous pouvez spécifier les mots clés islamophobes que vous souhaitez rechercher en les ajoutant à une liste dans le script.
+ 1. **Token Discord** : Vous aurez besoin d'un token Discord valide pour que le script puisse accéder aux serveurs et lire les messages. Vous pouvez obtenir ce token en vous connectant à Discord et en inspectant les requêtes réseau dans votre navigateur, mais faites attention à la sécurité de votre token.
+ 2. **Mots Clés** : Vous pouvez spécifier les mots clés islamophobes que vous souhaitez rechercher en les ajoutant à une liste dans le script.
 
 ## Utilisation
  1. Clonez ce dépôt :
